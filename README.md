@@ -2,16 +2,17 @@
 
 ## Contents
 
-### Demo 1: Camera
+### Demo 1: Using Camera feed at realtime
 
-The camera demo shows how to estimate poses in real-time from a webcam video stream. This video is deplayed only for demostration purpose. In FITALPHAZ, the kids/users will be the one who will perform action and the pose would be detected on realtime 
+This particular camera demo shows how to estimate poses in real-time from a webcam video stream. **This video is deplayed only for demostration purpose.** 
+In FITALPHAZ, the kids/users will be the one who will perform action and the pose would be detected on realtime 
 
 <img src="https://raw.githubusercontent.com/tensorflow/tfjs-models/master/posenet/demos/camera.gif" alt="cameraDemo" style="width: 600px;"/>
 
 
 
 
-## Setup
+## Demo Setup
 
 cd into the demos folder:
 
