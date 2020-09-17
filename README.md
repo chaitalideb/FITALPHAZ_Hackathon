@@ -26,8 +26,14 @@ Install dependencies and prepare the node_modules and build directory:
 yarn or npm install -g
 ```
 
-To run the demo, and launch a dev server:
+To run the demo, and launch a dev server. Change the default port to any custom and available port from the system and run the below command:
 
 ```sh
-npm run start
+export PORT=8080 && npm run start
+```
+
+If you are running this project directly in Google cloud shell, then follow the below steps:
+
+```
+gcloud app deploy
 ```
